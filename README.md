@@ -1,3 +1,3 @@
 # hackerrank
 
-hackerrank challenges codes
+hackerrank challenge code

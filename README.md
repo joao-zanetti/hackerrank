@@ -1,6 +1,8 @@
 # hackerrank
 
-hackerrank challenges codes
+hackerranks challenges codes
 
 
 teste checkout contest_leader
+
+pra piorar
